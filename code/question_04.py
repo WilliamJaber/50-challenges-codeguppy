@@ -6,5 +6,6 @@ def solution():
         for i in range(11):
             multiplier = i
             print(f'{multiplicand} x {multiplier} = {multiplicand * multiplier}')
+        print()
 
 solution()
