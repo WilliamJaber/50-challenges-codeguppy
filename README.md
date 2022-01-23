@@ -12,3 +12,9 @@
 
 > #### Challenge 4: Print all the multiplication tables with numbers from 1 to 10.
 >> [Solution](https://github.com/WilliamJaber/50-challenges-codeguppy/blob/main/code/question_04.py)
+
+> #### Challenge 5: Calculate the sum of numbers from 1 to 10.
+>> [Solution](https://github.com/WilliamJaber/50-challenges-codeguppy/blob/main/code/question_05.py)
+
+> #### Challenge 6: Calculate 10.
+>> [Solution](https://github.com/WilliamJaber/50-challenges-codeguppy/blob/main/code/question_06.py)
