@@ -2,7 +2,7 @@
 
 points = [100, 500, 300]
 
-def solution(array):
+def solution(array: list) -> int:
     return sum(array)
 
 print(solution(points))
